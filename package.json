@@ -13,6 +13,7 @@
   "dependencies": {
     "get-pixels": "^3.3.0",
     "mocha-multi": "^1.0.1",
+    "prettier": "^1.19.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4",
